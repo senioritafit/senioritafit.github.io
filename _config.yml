@@ -1,0 +1,14 @@
+# Site settings
+title: senioritafit.com
+email: test@example.com
+description: ""
+baseurl: ""
+url: "http://senioritafit.com"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+
+highlighter: pygments
+permalink: /:year-:month-:day-:title

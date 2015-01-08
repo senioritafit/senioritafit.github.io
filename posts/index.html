@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="post-list">
+
+  <header>
+    <h1>Posts</h1>
+    <p>
+      A <code class="post">post</code> is a full length original content post.<br />
+      A <code class="note">note</code> can be a code snippet, link or excerpt from another source.
+    </p>
+
+    <p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </header>
+
+  <div class="container">
+    <ul>
+      {% for post in site.posts %}
+      <li>
+	<div class="row">
+	  <div class="one column">
+	    {% if post.layout == "post" %}<code class="post">post</code>{% endif %}
+	    {% if post.layout == "note" %}<code class="note">note</code>{% endif %}
+	  </div>
+	  <div class="two columns">
+	    {{ post.date | date: "%b %-d, %Y" }}
+	  </div>
+	  <div class="eight columns">
+	    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	      {{ post.title }}
+	    </a>
+	  </div>
+	</div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>
