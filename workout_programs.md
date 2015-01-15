@@ -53,7 +53,7 @@ permalink: /workout-programs/
   <div class="six columns">
     <h2>Standard 12-Week Program</h2>
 
-    Work out at your own pace, at your own time with a standard workout program. Choose from different programs dependin onn your goals. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. 
+    Work out at your own pace, at your own time with a standard workout program. Choose from different programs depending on your goals. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. 
 
     <ul>
       <li>Strength, Cardio, Abs</li>
