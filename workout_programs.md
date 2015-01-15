@@ -32,11 +32,12 @@ permalink: /workout-programs/
   <div class="six columns">
     <h2>Personalized 12-Week Program</h2>
 
-    Work out at your own pace, at your own time with a custom workout program designed after a free consultation and fitness assessment**. Includes strength, cardio, and ab workouts as well as personal nutritional guidance.
+    Work out at your own pace, at your own time with a custom workout program designed after a free consultation and fitness assessment**. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. Optional rehabilitation exercises will also be provised if need be. 
 
     <ul>
       <li>Strength, Cardio, Abs</li>
       <li>Weekly Status Check Ups</li>
+      <li>**Fitness Assesments at Vassar College only</li>
       <li>12 weeks for $60  [$5/week]</li>
       <li>Students $48 [$4/week]</li>
     </ul>
@@ -50,15 +51,15 @@ permalink: /workout-programs/
   </div> 
   
   <div class="six columns">
-    <h2>Personalized 12-Week Program</h2>
+    <h2>Standard 12-Week Program</h2>
 
-    Work out at your own pace, at your own time with a custom workout program designed after a free consultation and fitness assessment**. Includes strength, cardio, and ab workouts as well as personal nutritional guidance.
+    Work out at your own pace, at your own time with a standard workout program. Choose from different programs dependin onn your goals. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. 
 
     <ul>
       <li>Strength, Cardio, Abs</li>
       <li>Weekly Status Check Ups</li>
-      <li>12 weeks for $60  [$5/week]</li>
-      <li>Students $48 [$4/week]</li>
+      <li>12 weeks for $48  [$4/week]</li>
+      <li>Students $36 [$3/week]</li>
     </ul>
   </div>
 </div>
