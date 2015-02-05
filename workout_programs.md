@@ -27,13 +27,12 @@ permalink: /workout-programs/
 
   <div class="six columns">
     <img alt="Personal 12-week" src="http://i.imgur.com/W1qCHcH.jpg" />
-    <img alt="Standard 12-week" src="http://i.imgur.com/hrBOtQN.jpg" />
   </div>
 
   <div class="six columns">
     <h2>Personalized 12-Week Program</h2>
 
-    Work out at your own pace, at your own time with a custom workout program designed after a free consultation and fitness assessment**. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. Optional rehabilitation exercises will also be provised if need be. 
+    Work out at your own pace, at your own time with a custom workout program designed after a free consultation and fitness assessment**. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. Optional rehabilitation exercises will also be provised if need be.
 
     <ul>
       <li>Strength, Cardio, Abs</li>
@@ -48,13 +47,13 @@ permalink: /workout-programs/
 <div class="row">
 
   <div class="six columns">
-    <img alt="Standard 12-week" src="/i/standard_12_week.jpg" />
-  </div> 
-  
+    <img alt="Standard 12-week" src="http://i.imgur.com/hrBOtQN.jpg" />
+  </div>
+
   <div class="six columns">
     <h2>Standard 12-Week Program</h2>
 
-    Work out at your own pace, at your own time with a standard workout program. Choose from different programs depending on your goals. Includes strength, cardio, and ab workouts as well as personal nutritional guidance. 
+    Work out at your own pace, at your own time with a standard workout program. Choose from different programs depending on your goals. Includes strength, cardio, and ab workouts as well as personal nutritional guidance.
 
     <ul>
       <li>Strength, Cardio, Abs</li>
@@ -64,5 +63,3 @@ permalink: /workout-programs/
     </ul>
   </div>
 </div>
-
-
