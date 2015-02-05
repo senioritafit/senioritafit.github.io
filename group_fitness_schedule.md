@@ -8,7 +8,7 @@ permalink: /group-fitness-schedule/
   <h4>Location: Vassar College in Poughkeepsie,NY</h4>
 
   <p>
-    <strong>****ALL CLASSES START ON FEBRUARY 2ND, 2015*****</strong><br>
+    <strong>****ALL CLASSES START ON FEBRUARY 9th, 2015*****</strong><br>
     <strong>**PLEASE REGISTER IN ADVANCE BY SENDING EMAIL TO <a href="mailto:roczula@vassar.edu" target="_top">roczula@vassar.edu</a> **</strong>
   </p>
 </div>
