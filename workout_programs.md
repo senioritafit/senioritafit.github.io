@@ -6,7 +6,7 @@ permalink: /workout-programs/
 
 <div class="row">
   <div class="six columns">
-    <img alt="Personal Training" src="/i/personal_training.jpg" />
+    <img alt="Personal Training" src="http://i.imgur.com/EZCXyRY.jpg" />
   </div>
   <div class="six columns">
     <h2>Personal Training</h2>
@@ -26,8 +26,8 @@ permalink: /workout-programs/
 <div class="row">
 
   <div class="four columns">
-    <img alt="Personal 12-week" src="/i/personal_12_week.jpg" />
-    <img alt="Standard 12-week" src="/i/standard_12_week.jpg" />
+    <img alt="Personal 12-week" src="http://i.imgur.com/W1qCHcH.jpg" />
+    <img alt="Standard 12-week" src="http://i.imgur.com/hrBOtQN.jpg" />
   </div>
 
   <div class="eight columns">

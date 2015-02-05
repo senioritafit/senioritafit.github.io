@@ -15,8 +15,8 @@ permalink: /group-fitness-schedule/
 
 <div class="row">
   <div class="six columns">
-    <img alt="Personal Training" src="/i/hiit_2.jpg" />
-    <img alt="Personal Training" src="/i/hiit_1.jpg" />
+    <img alt="Personal Training" src="http://i.imgur.com/KGMPme8.jpg" />
+    <img alt="Personal Training" src="http://i.imgur.com/z8PwdZw.jpg" />
   </div>
   <div class="six columns">
     <h2>H.I.I.T by Madison</h2>
@@ -35,7 +35,7 @@ permalink: /group-fitness-schedule/
 
 <div class="row">
   <div class="six columns">
-    <img alt="Personal Training" src="/i/foam.jpg" />
+    <img alt="Personal Training" src="http://i.imgur.com/jlTpp79.jpg" />
   </div>
   <div class="six columns">
     <h3>Foam Rolling Workout</h3>

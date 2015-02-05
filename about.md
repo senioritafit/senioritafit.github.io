@@ -7,7 +7,7 @@ permalink: /about/
 <div class="row">
 
   <div class="six columns">
-    <img alt="A photo of Madison" src="/i/madison_1.jpg" />
+    <img alt="A photo of Madison" src="http://i.imgur.com/eoFtNAD.jpg" />
   </div>
 
   <div class="six columns">
@@ -19,11 +19,11 @@ permalink: /about/
 <div class="row">
 
   <div class="six columns">
-    <img alt="NASM Certified" src="/i/nasm_certified.jpg" />
+    <img alt="NASM Certified" src="http://i.imgur.com/Pf3JpBy.jpg" />
   </div>
 
   <div class="six columns">
-    <img alt="Vassar College Logo" src="/i/vassar_college_circle.jpg" />
+    <img alt="Vassar College Logo" src="http://i.imgur.com/H743Dsc.png" />
   </div>
 
 </div>
