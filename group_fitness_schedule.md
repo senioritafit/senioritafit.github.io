@@ -23,7 +23,7 @@ permalink: /group-fitness-schedule/
     <h5>[Intermediate/Advanced]</h5>
     Mondays and Wednesdays @11am
 
-    <h3>[Beginners/Intermediate]</h3>
+    <h5>[Beginners/Intermediate]</h5>
     Tuesdays @5pm
 
     <u>All classes in Fitness Center MPR</u>
