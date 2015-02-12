@@ -20,10 +20,10 @@ permalink: /group-fitness-schedule/
   <div class="six columns">
     <h2>H.I.I.T by Madison</h2>
     High Intensity Interval Training (HIIT) is a training technique in which you give all-out, one hundred percent effort through quick, intense bursts of exercise, followed by short, sometimes active, recovery periods. This type of training gets and keeps your heart rate up and burns more fat in less time. Includes both strength and agility training.
-    <h3>[Intermediate/Advanced]</h3>
+    <h2>[Intermediate/Advanced]</h2>
     Mondays and Wednesdays @11am
 
-    <h3>[Beginners/Intermediate]</h3>
+    <h2>[Beginners/Intermediate]</h2>
     Tuesdays @5pm
 
     <u>All classes in Fitness Center MPR</u>
