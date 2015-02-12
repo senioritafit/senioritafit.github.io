@@ -18,4 +18,18 @@ permalink: /testimonials/
 
 </div>
 
+<div class="row">
+
+  <div class="six columns">
+    <strong>Eva Woods Peiró</strong>:
+    <blockquote>"Madison was one of the most thorough, attentive, and caring trainers. She was extremely knowledgeable, and I would even say an expert on issues of diet, fitness technique, and the holistic integration of health practices. I recommend her unconditionally!""</blockquote>
+  </div>
+
+  <div class="six columns">
+    <strong></strong>:
+    <blockquote></blockquote>
+  </div>
+
+</div>
+
 
