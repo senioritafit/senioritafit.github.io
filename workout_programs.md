@@ -11,7 +11,7 @@ permalink: /workout-programs/
   <div class="six columns">
     <h2>Personal Training</h2>
 
-    Will design and implement personalized exercise and diet programs targeting specific conditions and concerns based on client history, goals, fitness assessments, and the NASM OPT model.
+    Will design and implement personalized exercise and diet programs targeting specific conditions and concerns based on client history, goals, fitness assessments, and the NASM OPT model. Contact me for group personal training discounts!
 
     <ul>
       <li>Only at Vassar College</li>
